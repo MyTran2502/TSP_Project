@@ -31,7 +31,7 @@ tsp_source/
 - Cài đặt thư viện cần thiết matplotlib và networkx:
              pip install matplotlib networkx
 - Chạy chương trình trong Terminal (Windows): 
-             pyhton main.py
+             python main.py
 
 # Tác giả
 - Trần Thảo My - B2204947
